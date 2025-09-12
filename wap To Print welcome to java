@@ -1,0 +1,9 @@
+// Program 01: WAP to print "Welcome to Java"
+
+class Main {
+    public static void main(String[] args) {
+        System.out.println("Welcome to Java");
+    }
+}
+
+Welcome to Java
