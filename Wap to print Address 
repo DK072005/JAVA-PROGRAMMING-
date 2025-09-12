@@ -1,0 +1,27 @@
+// Program 02: WAP to print your address
+// i) using single print
+// ii) using multiple println
+
+// i) Using single print
+class AddressSingle {
+    public static void main(String[] args) {
+        System.out.println("Knowledge Park - 3, Greater Noida, Uttar Pradesh");
+    }
+}
+
+Knowledge Park - 3, Greater Noida, Uttar Pradesh
+
+
+// ii) Using multiple println
+class AddressMultiple {
+    public static void main(String[] args) {
+        System.out.println("Knowledge Park - 3");
+        System.out.println("Greater Noida");
+        System.out.println("Uttar Pradesh");
+    }
+}
+
+
+Knowledge Park - 3
+Greater Noida
+Uttar Pradesh
